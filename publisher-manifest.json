@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c5faa5f1158e1888b10c866a",
+  "owner": "gcwduuufg",
+  "repo": "page-213e19a83a9117d63b20408e",
+  "title": "QTY",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "213e19a83a9117d63b20408e",
+      "a": "QTY",
+      "b": "",
+      "entity": "QTY",
+      "brand": "QTY",
+      "separator": "",
+      "path": "index.html",
+      "hash": "6d169bd8dafcd855790e661aa78ad265bd91e24c431e1f97ecc635e24b7a4eed",
+      "content": {
+        "keyword1": "QTY",
+        "keyword2": "",
+        "primary_entity": "QTY",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "QTY 是一份以阅读节奏为隐喻的订阅服务笔记，从月首、月中到月末三档流量额度出发，帮你把网络使用整理成一段可被回味的月度旅程，而非追逐某个数字的赛跑。",
+          "AI_DESCRIPTION": "QTY 是一份以阅读节奏为隐喻的订阅服务笔记，从月首、月中到月末三档流量额度出发，帮你把网络使用整理成一段可被回味的月度旅程，而非追逐某个数字的赛跑。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\nhtml,body{background:#f4ede1;color:#3b2a20;font-family:Georgia,\"Times New Roman\",\"Songti SC\",serif;line-height:1.7}\na{color:#a8412b;text-decoration:none;border-bottom:1px solid rgba(168,65,43,.35)}\na:hover{border-bottom-color:#a8412b}\n.wrap{max-width:980px;margin:0 auto;padding:0 28px}\nheader.top{display:flex;align-items:baseline;justify-content:space-between;padding:22px 28px;border-bottom:1px solid rgba(168,65,43,.25);background:#f4ede1}\nheader.top .logo{font-family:Georgia,serif;font-size:22px;letter-spacing:.18em;color:#a8412b}\nheader.top .quote{font-size:13px;color:#6b574a;font-style:italic}\n\n/* HERO 6: 纵向时间线 */\n.timeline-hero{padding:80px 0 70px;background:#efe4d2;border-bottom:1px solid rgba(168,65,43,.2)}\n.timeline-hero h1{font-family:Georgia,serif;font-size:46px;line-height:1.15;color:#a8412b;font-weight:normal;letter-spacing:.02em;margin-bottom:18px}\n.timeline-hero .lede{font-size:18px;color:#4a3a2e;max-width:640px;margin-bottom:46px}\n.rail{position:relative;padding-left:42px}\n.rail::before{content:\"\";position:absolute;left:10px;top:8px;bottom:8px;width:2px;background:#a8412b}\n.node{position:relative;margin-bottom:30px}\n.node::before{content:\"\";position:absolute;left:-37px;top:11px;width:14px;height:14px;border-radius:50%;background:#f4ede1;border:2px solid #a8412b}\n.node:last-child::before{background:#a8412b}\n.node h3{font-family:Georgia,serif;font-size:18px;color:#a8412b;margin-bottom:4px;letter-spacing:.04em}\n.node p{font-size:15px;color:#4a3a2e}\n\n/* 主体区 */\nmain{padding:70px 0 120px}\nsection + section{margin-top:78px}\nh2{font-family:Georgia,serif;font-size:30px;color:#a8412b;font-weight:normal;border-left:5px solid #a8412b;padding-left:14px;margin-bottom:26px;letter-spacing:.02em}\nh2 small{display:block;font-size:13px;color:#8a6f5e;margin-top:6px;letter-spacing:.1em;font-style:italic;font-weight:normal}\np{margin-bottom:14px;font-size:16px}\n.intro{max-width:680px;font-size:17px;color:#4a3a2e}\n\n/* 卡片 4 左侧色条 */\n.row-cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px;margin-top:28px}\n.tcard{background:#fbf6ec;border-left:6px solid #a8412b;padding:22px 20px}\n.tcard h3{font-family:Georgia,serif;color:#a8412b;font-size:19px;margin-bottom:8px;letter-spacing:.04em}\n.tcard p{font-size:14.5px;color:#5a463a}\n\n/* plans 2 纵向列表逐行展开 */\n.plans{margin-top:18px}\n.plan{background:#fbf6ec;border-left:6px solid #a8412b;padding:26px 26px 22px;margin-bottom:18px;position:relative}\n.plan.reco{border-left-color:#7a2618;background:#f6e6d6}\n.plan .ribbon{position:absolute;top:0;right:0;background:#7a2618;color:#f4ede1;font-size:12px;padding:4px 12px;letter-spacing:.1em}\n.plan h3{font-family:Georgia,serif;font-size:24px;color:#a8412b;margin-bottom:6px;letter-spacing:.04em}\n.plan .price{font-size:15px;color:#3b2a20;margin-bottom:4px}\n.plan .price strong{font-size:22px;color:#7a2618}\n.plan .annual{font-size:13.5px;color:#7a6051;font-style:italic;margin-bottom:14px}\n.plan ul{list-style:none;padding:0}\n.plan li{font-size:14.5px;padding:6px 0 6px 22px;border-bottom:1px dashed rgba(168,65,43,.22);position:relative;color:#4a3a2e}\n.plan li:last-child{border-bottom:none}\n.plan li::before{content:\"·\";position:absolute;left:6px;color:#a8412b;font-weight:bold}\n.plan .pick{margin-top:14px;display:inline-block;font-size:13.5px;border:1px solid #a8412b;color:#a8412b;padding:6px 16px;letter-spacing:.08em}\n\n/* 步骤 */\n.steps{margin-top:18px;border-left:5px solid #a8412b;padding-left:20px}\n.steps ol{list-style:none;counter-reset:stp}\n.steps li{counter-increment:stp;padding:12px 0 12px 38px;position:relative;font-size:15.5px;color:#4a3a2e}\n.steps li::before{content:counter(stp);position:absolute;left:0;top:10px;width:26px;height:26px;border-radius:50%;background:#a8412b;color:#f4ede1;font-size:13px;text-align:center;line-height:26px;font-family:Georgia,serif}\n\n/* FAQ 2 编号列表 */\n.faq{margin-top:14px}\n.faq article{padding:18px 0 18px 20px;border-left:5px solid #a8412b;margin-bottom:10px;background:#fbf6ec}\n.faq article h4{font-family:Georgia,serif;font-size:17px;color:#a8412b;margin-bottom:6px}\n.faq article h4 .num{display:inline-block;width:28px;height:28px;border:1.5px solid #a8412b;border-radius:50%;text-align:center;line-height:26px;font-size:14px;margin-right:10px;letter-spacing:0}\n.faq article p{font-size:14.5px;color:#4a3a2e}\n\n/* footer */\nfooter.site{margin-top:90px;padding:36px 28px;background:#3b2a20;color:#e8d8c4;font-size:13px;text-align:center;letter-spacing:.06em}\nfooter.site .word{color:#f4ede1;letter-spacing:.22em}\n\n/* 底部固定式文字导航 4 */\n.bottom-nav{position:fixed;bottom:0;left:0;right:0;background:#3b2a20;border-top:1px solid #a8412b;display:flex;justify-content:space-around;padding:10px 6px;z-index:10}\n.bottom-nav a{color:#f4ede1;font-size:13px;letter-spacing:.1em;border:none;padding:6px 8px;font-family:Georgia,serif}\n.bottom-nav a:hover{color:#e8a374}\nbody{padding-bottom:60px}\n\n@media (max-width:640px){\n.timeline-hero{padding:54px 0 46px}\n.timeline-hero h1{font-size:30px}\n.timeline-hero .lede{font-size:16px}\n.row-cards{grid-template-columns:1fr}\n}\n</style><header class=\"top\">\n  <div class=\"logo\">QTY</div>\n  <div class=\"quote\">一份写给订阅者的月度手记 · 第 048 期</div>\n</header>\n\n<section class=\"timeline-hero\">\n  <div class=\"wrap\">\n    <h1>QTY · 把每一个月<br>读成一段有<br>节奏的旅程。</h1>\n    <p class=\"lede\">QTY 不鼓励你在月初就把一整月的额度挥霍一空，也不声张某个不可考证的速度神话。它更像一本被翻旧了的杂志——告诉你这一期里，有哪些节点、哪些配额、哪些线路，正在安静地等你按下订阅键。</p>\n    <div class=\"rail\">\n      <div class=\"node\">\n        <h3>月首 · 节制地打开</h3>\n        <p>订阅第一天，你拿到的是一份干净的额度起点。我们建议先从基础版开始，把头七天当作试读。</p>\n      </div>\n      <div class=\"node\">\n        <h3>月中 · 找到你的章节</h3>\n        <p>到了第十五天，你大概已经熟悉了哪些节点适合工作，哪些适合晚间的视频。旗舰版在这一刻出场。</p>\n      </div>\n      <div class=\"node\">\n        <h3>月末 · 留给团队与远方</h3>\n        <p>如果你和同事、家人一同使用，团队版会把整月剩余的额度，整合成一张可以分发的订阅卡。</p>\n      </div>\n      <div class=\"node\">\n        <h3>下一个月初 · 再续</h3>\n        <p>所有额度按自然月重置，未使用的部分不结转。QTY 相信节制，反而让下一次订阅更值得期待。</p>\n      </div>\n    </div>\n  </div>\n</section>\n\n<main>\n<div class=\"wrap\">\n\n  <section>\n    <h2>关于 QTY<small>About the subscription</small></h2>\n    <p class=\"intro\">QTY 这三个字母，最早来自一本旧杂志的目录编号，后来被我们借用为订阅服务的名字。它的全部产品形态，就是为个人和小团队提供月度可预期的网络使用额度——按月计费、按月重置、按月续订。我们没有会员等级的颜色阶梯，也没有任何“终身买断”的承诺，因为 QTY 更愿意做一个克制的工具，而不是一款需要你反复升级的游戏。</p>\n    <p>下面这一段，是我们想把 QTY 介绍给一位新读者时会说的话。如果你在桌前坐定、读完了这段话仍然没有关掉页面，那么订阅的事情，也许真的值得考虑。</p>\n    <div class=\"row-cards\">\n      <div class=\"tcard\">\n        <h3>节制优先</h3>\n        <p>所有的套餐都设定了明确的月度额度上限，鼓励你在额度内完成最重要的几件事，而不是把整个互联网拖回家。</p>\n      </div>\n      <div class=\"tcard\">\n        <h3>说明书而非广告</h3>\n        <p>页面出现的数字、节点、设备数都是可以被验证的；没有出现的内容，请当作它不存在。</p>\n      </div>\n      <div class=\"tcard\">\n        <h3>可被退订</h3>\n        <p>QTY 没有自动续费陷阱。当月到期即停止扣款，下个月想继续，再回来按月订阅即可。</p>\n      </div>\n    </div>\n  </section>\n\n  <section>\n    <h2>三档月度额度<small>Three monthly tiers</small></h2>\n    <p class=\"intro\">以下三档是 QTY 当前在售的全部订阅档位。所有标价按月计费，年付价格写在下方作为参考，并不强制绑定。列表按从轻到重的顺序纵向展开，方便你一行一行地读完每一项权益再决定。</p>\n    <div class=\"plans\">\n\n      <article class=\"plan\">\n        <h3>基础版</h3>\n        <div class=\"price\"><strong>¥15</strong> / 月</div>\n        <div class=\"annual\">按年付仅需 ¥150/年</div>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#\" class=\"pick\">选择基础版</a>\n      </article>\n\n      <article class=\"plan reco\">\n        <div class=\"ribbon\">编辑部推荐</div>\n        <h3>旗舰版</h3>\n        <div class=\"price\"><strong>¥35</strong> / 月</div>\n        <div class=\"annual\">按年付仅需 ¥350/年</div>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"pick\">选择旗舰版</a>\n      </article>\n\n      <article class=\"plan\">\n        <h3>团队版</h3>\n        <div class=\"price\"><strong>¥85</strong> / 月</div>\n        <div class=\"annual\">按年付仅需 ¥850/年</div>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a href=\"#\" class=\"pick\">选择团队版</a>\n      </article>\n\n    </div>\n  </section>\n\n  <section>\n    <h2>使用步骤<small>How to start</small></h2>\n    <p class=\"intro\">QTY 没有花哨的客户端营销描述，因此下面这份步骤有意写得简短。它只是告诉你，从打开邮箱里的订阅确认信到第一次连上节点，大约要做哪几件事。</p>\n    <div class=\"steps\">\n      <ol>\n        <li>完成订阅后查收邮件，你将收到包含订阅账号、初始密码、节点订阅地址的一份说明文档。</li>\n        <li>按你常用的设备系统，进入对应的客户端下载页面或你已信任的渠道，下载 QTY 兼容的客户端程序。</li>\n        <li>将步骤一获得的订阅地址粘贴进客户端的“订阅设置”中，刷新节点列表后即可看到本档位对应的可用节点。</li>\n        <li>选择延迟合适的节点启动连接，首次启动建议保留默认的“全局代理”，熟悉后可在“分应用代理”里按需调整。</li>\n        <li>在个人中心的“流量明细”里，可以看到本月的实时用量与剩余额度，方便你按自己的阅读节奏分配。</li>\n      </ol>\n    </div>\n  </section>\n\n  <section>\n    <h2>常见问题<small>Frequently asked questions</small></h2>\n    <p class=\"intro\">这里收录了订阅前后编辑部门最常被读者来信问到的问题。回答都尽量遵守“不知道就不知道”的写法，而不替你给出承诺。</p>\n    <div class=\"faq\">\n\n      <article>\n        <h4><span class=\"num\">01</span>额度没有用完，下个月会结转吗？</h4>\n        <p>不会结转。QTY 所有套餐的额度都按自然月重置，月初第一天的零点，未使用的部分即清零。这是一项有意为之的设计，目的是鼓励你把每月的网络使用控制在合理的体量内。</p>\n      </article>\n\n      <article>\n        <h4><span class=\"num\">02</span>三档可以随时升降级吗？</h4>\n        <p>可以。当月保持当前档位至月末，下一个月初即可在订阅后台切换到任意其他档位，差价会在下一个计费周期内按比例结算。我们暂时不提供当月内“折算切换”，以避免账期混乱。</p>\n      </article>\n\n      <article>\n        <h4><span class=\"num\">03</span>团队版的 20 台设备，会被绑定到具体设备上吗？</h4>\n        <p>不会绑定具体设备，而是绑定到订阅账号下的设备并发数。你可以让同一位同事白天用笔记本、晚间用家里的智能电视，前提是同一时间不超过 20 台并发。</p>\n      </article>\n\n      <article>\n        <h4><span class=\"num\">04</span>是否提供退款？</h4>\n        <p>当月订阅一经开通，原则上不再退款。我们建议你在订阅前先阅读旗舰版与团队版的详细权益列表，或通过官网留言与我们确认是否适合你的使用场景，再做决定。</p>\n      </article>\n\n      <article>\n        <h4><span class=\"num\">05</span>节点列表多久更新一次？</h4>\n        <p>节点维护属于后台例行事项。具体某一组节点的可见性会随着维护节奏变化而调整，我们不会预先公布固定的维护时间表。请以你客户端实际刷新到的列表为准。</p>\n      </article>\n\n      <article>\n        <h4><span class=\"num\">06</span>我能同时订阅多档吗？</h4>\n        <p>不开放。一个 QTY 账号同一自然月内只能保留一个生效的订阅档位。如果你希望体验不同档位，可以在本月结束后，下个月初切换。</p>\n      </article>\n\n      <article>\n        <h4><span class=\"num\">07</span>如何联系人工支持？</h4>\n        <p>基础版的咨询通过普通工单回复；旗舰版与团队版享有更高优先级的工单支持，团队版另有专属客户经理。你可以在订阅后台的“工单与支持”入口提交问题。</p>\n      </article>\n\n    </div>\n  </section>\n\n  <section>\n    <h2>写在最后一页<small>A short note from the editor</small></h2>\n    <p>如果你已经读到了这一节，那么多多少少，QTY 可能是你想再翻一翻的那本杂志。订阅与否都不必着急，等到下一个你有空打开邮箱的傍晚回来，再决定也不晚。</p>\n    <p>愿你把每一个月都读成一段有节奏的旅程。</p>\n  </section>\n\n</div>\n</main>\n\n<nav class=\"bottom-nav\" aria-label=\"页内导航\">\n  <a href=\"#\">关于 QTY</a>\n  <a href=\"#\">三档额度</a>\n  <a href=\"#\">使用步骤</a>\n  <a href=\"#\">常见问题</a>\n  <a href=\"#\">留言版</a>\n</nav>\n\n<footer class=\"site\">\n  <div class=\"word\">QTY · 一份关于阅读节奏与流量节制的订阅手记</div>\n  <div>© QTY 编辑部 · 本期排版与文字均由编辑独立完成</div>\n</footer>",
+          "hash": "783995d25355f68999ab2d38a1a6b44777ca12e488fea7a480da57a5b12cc670",
+          "seo": {
+            "title": "QTY — 一份关于阅读节奏与流量节制的订阅手记",
+            "keywords": "QTY,订阅服务,流量套餐,阅读节奏,专线网络,团队版,基础版,旗舰版",
+            "description": "QTY 是一份以阅读节奏为隐喻的订阅服务笔记，从月首、月中到月末三档流量额度出发，帮你把网络使用整理成一段可被回味的月度旅程，而非追逐某个数字的赛跑。"
+          },
+          "provider": "grok",
+          "model": "MiniMax-M3",
+          "design": {
+            "no": "6501",
+            "hero": "6 纵向时间线引入",
+            "palette": "2 米白配砖红",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "2 纵向列表逐行展开",
+            "faq_view": "2 编号列表",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yuxhwid.cn",
+    "host": "p-fe93749876.yuxhwid.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ca66a5dd9cd31ec19da7601ebb1aa0656999bbfd098e15984e76ed357a1e36d2",
+    "sitemap.xml": "401d99393ac76aa5e699e10c56fee08f8e857b6916df44bd56bc8626443cac16",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "093737bf94902d7f83a967109d00f18b099c4d30fea757eb4f92f244c3579835",
+    "robots.txt": "7ba774dc29d49cebdbbddc70435a652b905c57a383d97062e754573f8c35e27e",
+    "a059f86ea07f5b96e11bb5389751131b.txt": "510f2dd7838e769813d1b9ddb8ebb9c77bdc9b769a21dcebc9dea27850196c2e"
+  },
+  "revision": "9543e3ca86d62655c490ab769589536b4f7682546502d54e52bb36a13a592d66"
+}
